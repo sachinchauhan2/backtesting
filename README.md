@@ -1,3 +1,3 @@
 # Backtesting
 
-backtrader using backtrader
+backtesting using backtrader
